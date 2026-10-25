@@ -1,6 +1,6 @@
-# COMP20121 Foundations of AI and Machine Learning
+# Foundations of AI and Machine Learning
 
-Coursework for **COMP20121 Foundations of Artificial Intelligence and Machine Learning** (student N1205091). The folder has two parts: an AI report plus video, and a machine-learning notebook that analyses the 2022 Kaggle ML & Data Science Survey.
+Coursework for **Foundations of Artificial Intelligence and Machine Learning** (student N1205091). The folder has two parts: an AI report plus video, and a machine-learning notebook that analyses the 2022 Kaggle ML & Data Science Survey.
 
 ## Machine Learning
 
@@ -37,4 +37,4 @@ The course folder is `COMP20121 Found'ns of AI & Machine Learning/`.
 
 ## Course
 
-**COMP20121** — foundations of AI and machine learning: survey EDA, supervised classification of compensation, unsupervised clustering, and an AI written/video submission.
+**Foundations of AI and machine learning** — survey EDA, supervised classification of compensation, unsupervised clustering, and an AI written/video submission.
