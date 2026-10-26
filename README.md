@@ -1,6 +1,6 @@
 # Foundations of AI and Machine Learning
 
-Coursework for **Foundations of Artificial Intelligence and Machine Learning** (student N1205091). The folder has two parts: an AI report plus video, and a machine-learning notebook that analyses the 2022 Kaggle ML & Data Science Survey.
+NTU module work: an AI report and presentation, plus a Python notebook analysing the 2022 Kaggle Machine Learning & Data Science Survey (EDA, classification, clustering).
 
 ## Machine Learning
 
