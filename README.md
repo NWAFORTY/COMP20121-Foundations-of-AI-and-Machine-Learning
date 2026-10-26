@@ -17,12 +17,13 @@ The notebook loads `kaggle_survey_2022_responses.csv` from Kaggle (`nwaforty/kag
 ## AI
 
 - `N1205091 AI.pdf` — AI coursework report.
-- `AI.mov` is a 129 MB demo video. It is **not** in this repo (GitHub rejects files over 100 MB). Keep a local copy under the original Downloads folder.
+- **AI Presentation (YouTube):** [https://youtu.be/BfLutkeIkjE](https://youtu.be/BfLutkeIkjE)
+- `AI.mov` is a 129 MB local copy of the presentation video. It is **not** in this repo (GitHub rejects files over 100 MB). Use the YouTube link above.
 
 ## How to open
 
 - Machine Learning: open the `.ipynb` in Jupyter, VS Code, or Kaggle.
-- AI: open the PDF.
+- AI: open the PDF, or watch the [AI Presentation on YouTube](https://youtu.be/BfLutkeIkjE).
 
 ## Project files
 
@@ -31,6 +32,7 @@ The course folder is `COMP20121 Found'ns of AI & Machine Learning/`.
 | Path | Role |
 | --- | --- |
 | `AI/N1205091 AI.pdf` | AI report |
+| [AI Presentation](https://youtu.be/BfLutkeIkjE) | YouTube video for the AI presentation |
 | `Machine Learning/*.ipynb` | Survey analysis (EDA, classification, clustering) |
 | `Machine Learning/*.html` | Exported notebook |
 | `Machine Learning/*.pdf` | Notebook as PDF |
